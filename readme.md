@@ -11,11 +11,14 @@
 - Rodoma bendra informacija apie programa - spaudžama next.
 - Pasiūloma pasirinkti įdiegimo aplankalą ir pasirinkus reikia spausti next.
 - Dar vieną kartėlį spausti next ir tuomet close.
-  Rezultatas:Po įdiegimo vartotojo darbalaukyje atsiranda nuoroda į programą, taip pat ir start meniu atsiranda punktas, kurį paspaudus atsidaro programa.
-4. Norint pašalinti programą, galima paleisti vel tuos pačius failus Setup.exe arba ProgramInstallSetup.msi failą. Tuomet bus išmestas langas su dviem pasirinkimais:
+
+  Rezultatas: Po įdiegimo vartotojo darbalaukyje atsiranda nuoroda į programą, taip pat ir start meniu atsiranda punktas, kurį paspaudus atsidaro programa.
+  
+4. Norint pašalinti programą, galima paleisti vel tuos pačius Setup.exe arba ProgramInstallSetup.msi failus. Tuomet bus išmestas langas su dviem pasirinkimais:
 - Repair my console app
 - remove my console app
-  Rezultatas, pasirinkus remove, programa bus išinstaliuota.
+  
+  Rezultatas: Pasirinkus remove, programa bus išinstaliuota.
 
 
 **#Norint naudotis programa, reikia atlikti šiuos veiksmus:**
