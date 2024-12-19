@@ -1,4 +1,4 @@
-#Studentų galutinio balo apskaičiavimo programa. **(v2.0 versija)**
+#Studentų galutinio balo apskaičiavimo programa. **(v3.0 versija)**
 
 #Ši programa skirta apskaičiuoti galutiniams balams, įvedant arba nuskaitant iš failo studento vardą, pavardę, namų darbų rezultatus bei egzamino balą.
 
