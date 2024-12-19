@@ -172,7 +172,7 @@ Išvadėlė: "Rule of three" taisyklė užtikrina, kad klasės objektai, kurie d
 
 
 
-**##Visų iki šios v2.0 versijos atliktų releasu apibendrinimas:**
+**##Visų iki šios v3.0 versijos atliktų releasu apibendrinimas:**
 - 1 ir 2 releasai(v.pradinė ir v0.1) realizuoja programa pagal aprašytus užduoties reikalavimus nuskaito vartotojų įvedamus reikiamus duomenis ir pateikia studentu duomenis.
 - 3 releasas(v0.2) - Programa patobulinta, kad generuotu failus, surusiuotu nuskaitytus duomenis ir įrašytų į atskirus failus.
 - 4 releasas(v0.3) -  Išmatuojama patobulintos v0.2 realizacijos veikimo spartą priklausomai nuo naudojamo vieno iš dvejų konteinerių(vector ir list)
