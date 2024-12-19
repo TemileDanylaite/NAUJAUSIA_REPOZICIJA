@@ -7,12 +7,12 @@
 **#Programos diegimo failo - setup.exe naudojimosi instrukciją:**
 1. Atsisiūskite ProgramInstallSetup.msi ir Setup.exe failus.
 2. Dukart spustelėti ProgramInstallSetup.msi failą, kad pradėtumėte diegimo procesą.
-3. Toliau pasileidžia programies diegimo vėdlys:
+3. Toliau pasileidžia programos diegimo vėdlys:
 - Rodoma bendra informacija apie programa - spaudžama next.
 - Pasiūloma pasirinkti įdiegimo aplankalą ir pasirinkus reikia spausti next.
 - Dar vieną kartėlį spausti next ir tuomet close.
   Rezultatas:Po įdiegimo vartotojo darbalaukyje atsiranda nuoroda į programą, taip pat ir start meniu atsiranda punktas, kurį paspaudus atsidaro programa.
-4. Norint pašalinti programą, galima paleisti vel tuos pačius failus Setup.exe arba ProgramInstallSetup.msi failą. Tuomet bus išmestas langas su dvejais pasirinkimais:
+4. Norint pašalinti programą, galima paleisti vel tuos pačius failus Setup.exe arba ProgramInstallSetup.msi failą. Tuomet bus išmestas langas su dviem pasirinkimais:
 - Repair my console app
 - remove my console app
   Rezultatas, pasirinkus remove, programa bus išinstaliuota.
